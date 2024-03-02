@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    overflow: hidden;
+}
 .bg{
     background-color: #002339;
     padding: 270px;
